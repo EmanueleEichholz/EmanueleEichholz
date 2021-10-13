@@ -1,4 +1,4 @@
-## Olá! Eu sou a Emanuele 👋
+
  <div>
   <a href="https://github.com/EmanueleEichholz">
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=EmanueleEichholz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
